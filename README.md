@@ -31,4 +31,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Binary Search
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Sliding Window
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Prefix Sum
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
