@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0152-maximum-product-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3731-find-missing-elements](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3731-find-missing-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3561-resulting-string-after-adjacent-removals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
