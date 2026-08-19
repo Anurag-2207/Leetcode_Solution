@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0152-maximum-product-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3731-find-missing-elements) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 <!---LeetCode Topics End-->
