@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3731-find-missing-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1903-largest-odd-number-in-string) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bracket Sequences
 |  |
@@ -111,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
