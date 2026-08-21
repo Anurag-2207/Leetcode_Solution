@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3731-find-missing-elements](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3731-find-missing-elements) |
 ## Math
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0328-odd-even-linked-list) |
 ## Recursion
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
