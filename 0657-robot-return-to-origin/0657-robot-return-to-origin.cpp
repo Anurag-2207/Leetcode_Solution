@@ -9,7 +9,6 @@ public:
             else if(s[i]=='L') cnt2--;
             else cnt2++;
         }
-        if(cnt1==0 && cnt2==0) return true;
-        return false;
+        return cnt1==0 && cnt2==0;
     }
 };
