@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Binary Search
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bracket Sequences
 |  |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1927-sum-game) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
