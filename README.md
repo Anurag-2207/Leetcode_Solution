@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
