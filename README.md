@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2126-destroying-asteroids) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2126-destroying-asteroids) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
