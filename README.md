@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
