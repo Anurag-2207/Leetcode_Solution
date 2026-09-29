@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0940-distinct-subsequences-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Combinatorics
 |  |
