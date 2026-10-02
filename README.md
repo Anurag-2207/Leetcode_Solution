@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1306-jump-game-iii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0494-target-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting Sort
 |  |
@@ -283,8 +286,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
