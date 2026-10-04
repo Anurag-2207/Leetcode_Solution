@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0583-delete-operation-for-two-strings) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0940-distinct-subsequences-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
