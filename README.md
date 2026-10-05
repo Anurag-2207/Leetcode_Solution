@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0657-robot-return-to-origin) |
+| [0856-score-of-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
