@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
+| [0132-palindrome-partitioning-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0392-is-subsequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
+| [0132-palindrome-partitioning-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0583-delete-operation-for-two-strings) |
