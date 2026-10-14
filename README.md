@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3870-count-commas-in-range) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2126-destroying-asteroids) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
