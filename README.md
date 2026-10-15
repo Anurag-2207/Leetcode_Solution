@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2126-destroying-asteroids) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -362,4 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
