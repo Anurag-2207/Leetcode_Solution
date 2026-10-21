@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3612-process-string-with-special-operations-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3612-process-string-with-special-operations-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Search
 |  |
 | ------- |
