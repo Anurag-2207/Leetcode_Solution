@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
 | ------- |
