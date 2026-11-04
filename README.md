@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3612-process-string-with-special-operations-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3612-process-string-with-special-operations-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Search
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2126-destroying-asteroids) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
