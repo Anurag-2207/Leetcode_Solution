@@ -7,6 +7,5 @@ public:
             ans+=(nums[nums.size()-1]-nums[i]);
         }
         return ans;
-
     }
 };
