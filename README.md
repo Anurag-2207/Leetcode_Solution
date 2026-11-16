@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1306-jump-game-iii) |
 ## Knapsack Problem
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
@@ -448,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
