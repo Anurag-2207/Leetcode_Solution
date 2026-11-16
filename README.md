@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3665-twisted-mirror-path-count](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3665-twisted-mirror-path-count) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1306-jump-game-iii) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 ## Tree
