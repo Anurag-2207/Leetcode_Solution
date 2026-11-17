@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0733-flood-fill) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0940-distinct-subsequences-ii) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
