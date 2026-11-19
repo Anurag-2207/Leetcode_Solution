@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0802-find-eventual-safe-states) |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0802-find-eventual-safe-states) |
 | [1254-number-of-closed-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1306-jump-game-iii) |
 | [1765-map-of-highest-peak](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1765-map-of-highest-peak) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -488,4 +491,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
