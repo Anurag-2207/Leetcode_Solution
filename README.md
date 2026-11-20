@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0322-coin-change) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0115-distinct-subsequences) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0733-flood-fill) |
