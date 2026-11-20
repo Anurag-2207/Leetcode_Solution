@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -514,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
