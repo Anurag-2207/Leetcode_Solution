@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3665-twisted-mirror-path-count](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3731-find-missing-elements) |
