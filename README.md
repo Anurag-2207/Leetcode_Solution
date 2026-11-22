@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2409-count-days-spent-together) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
