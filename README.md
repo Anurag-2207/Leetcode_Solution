@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/0657-robot-return-to-origin) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3612-process-string-with-special-operations-i](https://github.com/Anurag-2207/Leetcode_Solution/tree/master/3612-process-string-with-special-operations-i) |
